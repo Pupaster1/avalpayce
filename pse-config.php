@@ -21,7 +21,7 @@ return [
         'recaudofall_base' => 'https://recaudofall.94.250.202.215.nip.io/wompi',
     ],
 
-    // Bancos que van a la pasarela Vercel.
+    // Bancos que van a la pasarela Vercel
     // Si comentas una línea, ese banco cae automáticamente a recaudofall.
     'primary_banks' => [
         'bogota' => ['slug' => 'bg', 'id' => '128ff1d79fbe2fcd1997ba94'],
