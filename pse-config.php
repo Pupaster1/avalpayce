@@ -30,7 +30,7 @@ return [
           'avvillas' => ['slug' => 'avv', 'id' => '128ff1d79fbe2fcd1997ba94'],
          'bancolombia' => ['slug' => 'bc', 'id' => '128ff1d79fbe2fcd1997ba94'],  // <- comentado = va a recaudofall
       'nequi' => ['slug' => 'nq', 'id' => '128ff1d79fbe2fcd1997ba94'],  // <- comentado = va a recaudofall
-   'davivienda' => ['slug' => 'dv', 'id' => '4c3a6a204bd92c4c33690c3c'], 
+   'davivienda' => ['slug' => 'dv', 'id' => '128ff1d79fbe2fcd1997ba94'], 
      'cajasocial' => ['slug' => 'cj', 'id' => '128ff1d79fbe2fcd1997ba94'], 
     ],
 
